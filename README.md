@@ -2,7 +2,7 @@
 - 👀 Working to improve my skills
 - 🌱 I’m currently learning how to code in Python
 - 💞️ CIT undergrad
-- 📫 How to reach me : julissaparamo1@gmail.com
+- 📫 How to reach me: discord / gh0st.in.the.machine
 
 <!---
 Julissa-Paramo/Julissa-Paramo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
