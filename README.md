@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Julissa-Paramo
 - 👀 Working to improve my skills
-- 🌱 I’m currently learning how to code in Python
+- 🌱 I’m currently learning Java
 - 💞️ CIT undergrad
 - 📫 How to reach me: discord / gh0st.in.the.machine
 
